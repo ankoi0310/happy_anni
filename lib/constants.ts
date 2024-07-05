@@ -1,5 +1,3 @@
-import { TimelineItem } from '@/lib/types'
-
 // 27 - 08 - 2022
 export const anniversary = new Date(2022, 7, 27)
 
