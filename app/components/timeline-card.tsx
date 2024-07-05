@@ -1,6 +1,5 @@
 import { Separator } from '@/components/ui/separator'
 import { Typography } from '@/components/ui/typography'
-import { TimelineItem } from '@/lib/types'
 import { cn } from '@/lib/utils'
 import { motion, Variants } from 'framer-motion'
 import React from 'react'

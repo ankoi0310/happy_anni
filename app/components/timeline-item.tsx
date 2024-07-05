@@ -1,7 +1,6 @@
 import TimelineCard from '@/app/components/timeline-card'
 import TimelineDot from '@/app/components/timeline-dot'
 import { timeLineItems } from '@/lib/constants'
-import { TimelineItem } from '@/lib/types'
 import { cn } from '@/lib/utils'
 import { motion } from 'framer-motion'
 import React from 'react'
